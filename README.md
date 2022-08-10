@@ -1,2 +1,1 @@
-im cam cam, im a beginner with this kind of stuff.
-my discord is camcamtheloser#0077
+hey, im cam cam. im currently learning lua.
